@@ -1,0 +1,9 @@
+:root {
+  --color-white: #fff;
+  --color-slate-300: #d6e2f0;
+  --color-slate-500: #68778d;
+  --color-slate-900: #1f3251;
+
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+}
